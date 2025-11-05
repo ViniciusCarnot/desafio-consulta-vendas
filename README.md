@@ -1,5 +1,6 @@
 # Desafio: CONSULTA DE VENDAS
-Desafio 3 do curso Java Spring Professional da Dev Superior. 
+Desafio 3 do curso Java Spring Professional da Dev Superior. O projeto se trata de um sistema de vendas (Sale) e vendedores (Seller). Cada venda está para um vendedor, e um 
+vendedor pode ter várias vendas.
 
 -------------------------------------------------------------------------------------------------------------------------
 ## Objetivos
